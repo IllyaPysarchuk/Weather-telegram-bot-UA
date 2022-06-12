@@ -12,6 +12,7 @@ Weather telegram bot
 - `DOTNET 6.0`
 - `POSTGRESQL`
 
+To install them, refer to [guide](https://github.com/IllyaPysarchuk/Weather-telegram-bot-UA/blob/main/docs/dotnet-and-postgresql-install-windows.md)
 
 Contact
 -------------
