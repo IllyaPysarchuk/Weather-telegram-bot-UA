@@ -5,7 +5,7 @@ Weather telegram bot
 
  #### This telegram bot allows you to get the current air temperature in different regions of Ukraine
  
- ![image](https://github.com/IllyaPysarchuk/Weather-telegram-bot-UA/blob/main/images/get_Kiyv_data.png)
+ ![image](https://github.com/IllyaPysarchuk/Weather-telegram-bot-UA/blob/main/images/Bot_work.gif)
 
 ## Dependencies
 
